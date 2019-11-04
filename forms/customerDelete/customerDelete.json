@@ -14,9 +14,27 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Form1", 
+        "customerDelete", 
         "Elements", 
-        "btn1.json"
+        "txtDeleteCustomers.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "customerDelete", 
+        "Elements", 
+        "btnDelete.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "customerDelete", 
+        "Elements", 
+        "iptCustomer.json"
       ]
     }
   ], 
@@ -26,7 +44,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "Form1", 
+  "id": "customerDelete", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
